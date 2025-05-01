@@ -10,18 +10,18 @@ satisfaction algorithms, and visualizes data via Chart.js.
 
 🛠 TECH STACK
 ------------------------------------------------------------
-• PHP + MySQL
-• JavaScript (Chart.js, WebSockets)
-• HTML/CSS
+- PHP + MySQL
+- JavaScript (Chart.js, WebSockets)
+- HTML/CSS
 
 ✨ FEATURES
 ------------------------------------------------------------
-• Online sacrament requests (Baptism, Wedding, etc.)
-• Real-time request updates (WebSockets)
-• Event scheduling (CSA)
-• Admin dashboard & reports
-• Data visualization (Chart.js)
-• Document upload & secure access
+- Online sacrament requests (Baptism, Wedding, etc.)
+- Real-time request updates (WebSockets)
+- Event scheduling (CSA)
+- Admin dashboard & reports
+- Data visualization (Chart.js)
+- Document upload & secure access
 
 🚀 INSTALLATION
 ------------------------------------------------------------
@@ -29,9 +29,9 @@ $ git clone https://github.com/Pathhari/SacredHeartProj.git
 
 $ cd SacredHeartProj
 
-• Import DB via phpMyAdmin or CLI
+- Import DB via phpMyAdmin or CLI
 
-• Edit backend/config.php for DB credentials
+- Edit backend/config.php for DB credentials
 
 $ php -S localhost:8000 -t frontend
 
