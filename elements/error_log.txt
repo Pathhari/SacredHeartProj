@@ -1,0 +1,29 @@
+Approve Request Error: No priest selected for assignment.
+Approve Request Error: No priest selected for assignment.
+Priest ID received: NULL
+Request with RefNo 82E9BD3A approved with Priest ID: NULL
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: PriestID is required for this sacrament.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
+Approve Request Error: The selected priest is not available at the specified time.
