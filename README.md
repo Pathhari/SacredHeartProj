@@ -26,9 +26,13 @@ satisfaction algorithms, and visualizes data via Chart.js.
 🚀 INSTALLATION
 ------------------------------------------------------------
 $ git clone https://github.com/Pathhari/SacredHeartProj.git
+
 $ cd SacredHeartProj
-# Import DB via phpMyAdmin or CLI
-# Edit backend/config.php for DB credentials
+
+• Import DB via phpMyAdmin or CLI
+
+• Edit backend/config.php for DB credentials
+
 $ php -S localhost:8000 -t frontend
 
 
